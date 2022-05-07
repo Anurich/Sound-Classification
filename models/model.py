@@ -1,7 +1,7 @@
 from re import M
 import torch.nn as nn
 import torch
-class MODEL(nn.ModuleList):
+class MLP(nn.ModuleList):
     def __init__(self, numClass):
         super().__init__()
         self.dense = nn.Sequential(
