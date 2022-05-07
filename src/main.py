@@ -1,6 +1,6 @@
 from glob import glob
 import config 
-from model import MODEL, CNNetwork
+from model import MLP, CNNetwork
 import numpy as np
 from sklearn.metrics import accuracy_score
 import torch.nn as nn
