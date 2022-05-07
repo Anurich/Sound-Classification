@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 from customdataloader import dataset
 from torch.utils.data import DataLoader
-from model import MODEL, CNNetwork
+from model import MLP, CNNetwork
 if __name__ == "__main__":
     def readPickle(filename):
         return pickle.load(open(filename, "rb"))
