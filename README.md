@@ -22,4 +22,11 @@
   <li> Less Dataset. </li>
   <li> Overfitting Problem. </li>
 </ol>
+<b> Solution To avoid overfitting </b>
+<ol> 
+  <li> L2 Normalization. </li>
+  <li> Data Argumentation. </li>
+  <li> Dropout. </li>
+  <li> Simpler Network. </li>
+</ol>
 
