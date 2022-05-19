@@ -23,7 +23,7 @@
   <li> Pytorch </li>
 </ol>
 
-Librosa is a music library which help us to extract the data from .wav file, librosa is also extensivly used in preprocessing of the features extracted from .wav file.  Librosa provide vast range of different functions which can be used to manipulate the features into different domain. In this task, I used MFCC.
+Librosa is a music library which help us to extract the data from .wav file, librosa is also extensivly used in preprocessing of the features extracted from .wav file.  Librosa provide vast range of different functions which can be used to manipulate the features into different domain. In this task, I used MFCC.<br/>
 Pytorch as we all know is library for designing our neural network architecture.
 
 <h3>Challenges & Solution: </h3>
