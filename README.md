@@ -1,7 +1,7 @@
 # Sound-Classification
 <h3> Task Explaination </h3>
 <p> 
-  The task is to classify the sound into different categories. I start by extracting features from sound which, preprocess and divided into train dev        and test set.
+  The task is to classify the sound into different categories. I start by extracting features from wav files which preprocess and divided into train dev        and test set.
 </p>
 
 <h3> Dataset: (Urban Sound Classification 8k) </h3>
